@@ -86,6 +86,8 @@ window.WORKS = [
   // The city
   { id: "ritmos-da-cidade", room: "city", title: "Ritmos da Cidade", medium: "Acrylic on canvas", size: [155, 90], w: 3500, h: 2115, large: true },
   { id: "irrupcao", room: "city", title: "Irrupção", year: 2026, medium: "Acrylic on canvas", size: [155, 90], w: 421, h: 224 },
+  { id: "ecos-de-horizonte", room: "city", title: "Ecos de Horizonte", year: 2026, medium: "Acrylic on canvas", size: [155, 90], w: 990, h: 472 },
+  { id: "aveiro", room: "city", title: "Aveiro", year: 2026, medium: "Acrylic on canvas", size: [155, 90], w: 1093, h: 495 },
   { id: "cidade-em-chamas", room: "city", title: "Cidade em Chamas de Cor", medium: "Acrylic on canvas", size: [120, 60], w: 475, h: 596 },
   { id: "after-the-noise", room: "city", title: "After the Noise", medium: "Acrylic on canvas", size: [120, 60], w: 595, h: 309 },
   { id: "untitled-3110", room: "city", title: null, medium: "Acrylic on canvas", size: [120, 60], w: 3500, h: 2120, large: true },
