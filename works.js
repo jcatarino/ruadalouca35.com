@@ -94,6 +94,7 @@ window.WORKS = [
   { id: "irrupcao", room: "city", title: "Irrupção", year: 2026, medium: "Acrylic on canvas", size: [155, 90], w: 3480, h: 1973, large: true },
   { id: "ecos-de-horizonte", room: "city", title: "Ecos de Horizonte", year: 2026, medium: "Acrylic on canvas", size: [155, 90], w: 990, h: 472 },
   { id: "aveiro", room: "city", title: "Aveiro", year: 2026, medium: "Acrylic on canvas", size: [155, 90], w: 3472, h: 1891, large: true },
+  { id: "umbral-de-fuego", room: "city", title: "Umbral de Fuego", year: 2026, medium: "Acrylic on canvas", size: [155, 90], w: 913, h: 658 },
   { id: "mujeres-guajiras", room: "city", title: "Mujeres Guajiras", year: 2026, medium: "Acrylic on canvas", size: [155, 90], w: 604, h: 1088 },
   { id: "cidade-em-chamas", room: "city", title: "Cidade em Chamas de Cor", medium: "Acrylic on canvas", size: [120, 60], w: 475, h: 596 },
   { id: "after-the-noise", room: "city", title: "After the Noise", medium: "Acrylic on canvas", size: [120, 60], w: 3166, h: 1568, large: true },
@@ -120,6 +121,8 @@ window.WORKS = [
       pt: "Nesta obra, deixei que as cores crescessem como árvores dentro de mim. O ocre é a terra, o amarelo é a luz que atravessa, e o azul é o silêncio que observa. Não é apenas um bosque: é um lugar interior, onde tudo se transforma, onde as emoções criam raízes e encontram o seu próprio espaço para existir.",
       es: "En esta obra dejé que los colores crecieran como árboles dentro de mí. El ocre es la tierra, el amarillo es la luz que atraviesa y el azul es el silencio que observa. No es solo un bosque: es un lugar interior, donde todo se transforma, donde las emociones echan raíces y encuentran su propio espacio para existir."
     } },
+  { id: "fuego-y-memoria", room: "nature", title: "Fuego y Memoria", year: 2026, medium: "Acrylic on canvas", size: [90, 90], w: 519, h: 524 },
+  { id: "jardim-de-los-instantes", room: "nature", title: "Jardim de los Instantes", year: 2026, medium: "Acrylic on canvas", size: [60, 50], w: 443, h: 340 },
   { id: "untitled-5733", room: "nature", title: null, medium: "Acrylic on canvas", size: [100, 100], w: 3242, h: 3427, large: true },
   { id: "untitled-roses", room: "nature", title: null, medium: "Oil on canvas", size: [100, 100], w: 429, h: 422,
     note: {
